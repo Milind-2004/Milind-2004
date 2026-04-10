@@ -14,11 +14,11 @@
 ## 📂 Featured Projects
 | Project | Description | Tools |
 |---|---|---|
-| [azure-terraform-modules](link) | Reusable IaC modules for Azure infra | Terraform, Azure |
-| [azure-cicd-pipelines](link) | CI/CD pipeline templates with quality gates | Azure DevOps, GitHub Actions, SonarQube |
-| [azure-monitoring-setup](link) | Monitoring dashboards & alert configs | Prometheus, Grafana, Azure Monitor |
-| [kubernetes-helm-configs](link) | K8s manifests and Helm chart templates | Kubernetes, Helm, ArgoCD |
-| [devops-scripts](link) | Automation scripts for Azure operations | Bash, PowerShell, Python |
+| [azure-terraform-modules] | Reusable IaC modules for Azure infra | Terraform, Azure |
+| [azure-cicd-pipelines] | CI/CD pipeline templates with quality gates | Azure DevOps, GitHub Actions, SonarQube |
+| [azure-monitoring-setup] | Monitoring dashboards & alert configs | Prometheus, Grafana, Azure Monitor |
+| [kubernetes-helm-configs] | K8s manifests and Helm chart templates | Kubernetes, Helm, ArgoCD |
+| [devops-scripts] | Automation scripts for Azure operations | Bash, PowerShell, Python |
 
 ## 📜 Certifications
 - ✅ Microsoft Certified: Azure Administrator Associate (AZ-104) — Apr 2026
